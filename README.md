@@ -1,2 +1,0 @@
-# LLJPEG
-LLJPEG test code
